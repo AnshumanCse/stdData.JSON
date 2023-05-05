@@ -1,0 +1,68 @@
+[
+    {
+    "Id": 6001,
+    "imgurl": "./defaulimg.png",
+    "firstName": "Abhishek",
+    "last Name": "Sing",
+    "email": "abhishek123@gmail.com",
+    "conNumber": "9487263484",
+    "age": "20",
+    "DOB": "01/05/2003",
+    "Address": "Bareilly, Uttar Pradesh"
+},
+{
+    "Id": 6002,
+    "imgurl": "./defaulimg.png",
+    "firstName": "Aditi ",
+    "last Name": "Sharma",
+    "email": "Aditis123@gmail.com",
+    "conNumber": "9487263484",
+    "age": "20",
+    "DOB": "01/05/2003",
+    "Address": "UttaraKhand, Uttar Pradesh"
+},
+{
+    "Id": 6003,
+    "imgurl": "./defaulimg.png",
+    "firstName": "Aditya",
+    "last Name": "Kumar",
+    "email": "aditya123@gmail.com",
+    "conNumber": "9487263484",
+    "age": "20",
+    "DOB": "01/05/2003",
+    "Address": "LMP, Uttar Pradesh"
+},
+{
+    "Id": 6004,
+    "imgurl": "./defaulimg.png",
+    "firstName": "Ankit",
+    "last Name": "Kumar",
+    "email": "ankit123@gmail.com",
+    "conNumber": "9487263484",
+    "age": "20",
+    "DOB": "01/05/2003",
+    "Address": "Bareilly, Uttar Pradesh"
+},
+{
+    "Id": 6005,
+    "imgurl": "./defaulimg.png",
+    "firstName": "Akhil",
+    "last Name": "Gangwar",
+    "email": "akhil123@gmail.com",
+    "conNumber": "9487263484",
+    "age": "20",
+    "DOB": "01/05/2003",
+    "Address": "Bisalpur, Uttar Pradesh"
+},
+{
+    "Id": 6006,
+    "imgurl": "./defaulimg.png",
+    "firstName": "Ankita",
+    "last Name": "Sharma",
+    "email": "ankita123@gmail.com",
+    "conNumber": "9487263484",
+    "age": "20",
+    "DOB": "01/05/2003",
+    "Address": "Bareilly, Uttar Pradesh"
+}
+]
